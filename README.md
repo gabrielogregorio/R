@@ -1,7 +1,4 @@
 # R
-Minhas Aulas de R
+Alguns estudos de R misturado com algumas aulas da faculdade.
 
-**Como executar um script?**  
-1. Instale o R.   
-2. Rode o comando Rscript + nome_do_script.R no terminal.  
-  
+Esse é um repositório apenas pra registro pessoal.
